@@ -8,16 +8,12 @@ As a data analyst at PyBer, a ride-sharing company, the first big project is to 
 
 ## Results 
 
-*Differences in ride-sharing data amoung different city types
+*Differences in ride-sharing data amoung different city types*
 
-![Summary DataFrame]
-
-(https://user-images.githubusercontent.com/102566199/167317153-1ef7ca4f-e91d-4a71-ab88-753f71344dca.png)
+![Summary DataFrame](https://user-images.githubusercontent.com/102566199/167317153-1ef7ca4f-e91d-4a71-ab88-753f71344dca.png)
 
 
-![Total Fare by City Type (2019)]
-
-(https://user-images.githubusercontent.com/102566199/167316703-8489c50c-8edb-49da-b8ae-2e99d161e9c2.png)
+![Total Fare by City Type (2019)](https://user-images.githubusercontent.com/102566199/167316703-8489c50c-8edb-49da-b8ae-2e99d161e9c2.png)
 
 a. Total Rides
 
@@ -46,7 +42,7 @@ The final line graph for the total fare by city type allows for the fare amount 
 
 ## Summary 
 
-*Three Business Recommendations
+*Three Business Recommendations*
 
 Based on the data visualization, there are a couple of clear needs that should be addressed by the ride sharing company. The Rural city type is dramatically underserved and lacks the massive amount of drivers that is present in the Urban and Suburban city types. It is unlikely for the rural city type to rely on ride-sharing services, since the average fare per ride is $10 more than what the Urban city type has. 
 
